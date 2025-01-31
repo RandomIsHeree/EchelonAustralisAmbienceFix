@@ -11,3 +11,9 @@ it will take me like a day to update this each time they update since i gotta te
 this is echelon https://github.com/echelon-theme/echelon
 
 and i only provided the chrome folder so you still need to download the defaults and config.js file from echelon
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 30f8722 (fixed the chrome folder since i accidentally put the unfinished one in lmao)
