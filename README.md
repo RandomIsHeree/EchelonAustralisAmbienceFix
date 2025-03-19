@@ -1,4 +1,4 @@
-# THIS IS WILL BE ARCHIVED SOON IF THE DEVELOPERS OF ECHELON DONT SUPPORT FIREFOX 128 THERE ARE SO MANY BETTER FUCKING OPTIONS JUST USE GECKIUM BECAUSE ECEHLON IS FUCKING DEAD FROM WHAT IT SEEMS
+# Archived I dont use ubuntu anymore i use windows now and from what it seems they are fixing it in version 2 so i wont bother with this  
 
 # EchelonAustralisAmbienceFix
 
