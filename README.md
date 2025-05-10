@@ -1,5 +1,4 @@
-# Archived I dont use ubuntu anymore i use windows now and from what it seems they are fixing it in version 2 so i wont bother with this  
-
+# Unarchiving just in case 
 # EchelonAustralisAmbienceFix
 
 # THIS HAS ONLY BEEN TESTED ON UBUNTU 22.04 USING THE UNITY DESKTOP ENVIRONMENT IT PROBABLY WILL WORK ON UBUNTU 17.10/18.04 AMBIENCE AND I ONLY PLAN TO HAVE SUPPORT FOR AMBIENCE
