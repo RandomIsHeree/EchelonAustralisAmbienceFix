@@ -1,4 +1,3 @@
-# Unarchiving just in case 
 # EchelonAustralisAmbienceFix
 
 # THIS HAS ONLY BEEN TESTED ON UBUNTU 22.04 USING THE UNITY DESKTOP ENVIRONMENT IT PROBABLY WILL WORK ON UBUNTU 17.10/18.04 AMBIENCE AND I ONLY PLAN TO HAVE SUPPORT FOR AMBIENCE
@@ -12,3 +11,5 @@ it will take me like a day to update this each time they update since i gotta te
 this is echelon https://github.com/echelon-theme/echelon
 
 and i only provided the chrome folder so you still need to download the defaults and config.js file from echelon
+
+# Archiving due to the fact i dont care about the theme that much anymore and cause the owner of echelon abandoned it.
